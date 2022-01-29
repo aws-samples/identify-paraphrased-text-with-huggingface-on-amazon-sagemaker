@@ -50,9 +50,9 @@ For Platform identifier, select `notebook-al2-v1` to select the latest version o
 
 2. We will use this terminal to download the content for this session from github, using the git client. Inside the terminal window, type the following commands:
 
-   $ cd SageMaker/
+   $ `cd SageMaker/`
    
-   $ git clone [TODO Github link here]
+   $ `git clone https://github.com/aws-samples/identify-paraphrased-text-with-huggingface-on-amazon-sagemaker`
     
 3. Switch back to the Jupyter notebook home tab, you will see the content of this GitHub Repo
 
