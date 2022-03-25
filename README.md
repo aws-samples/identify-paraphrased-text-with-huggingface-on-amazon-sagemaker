@@ -8,10 +8,9 @@ Now, a truly robust model would be able to identify paraphrased text when the la
 * I took a flight from Paris to New York
 
 # Repository Structure
-`img` - Images for the notebook
-`scripts` - Model training script
-    - `train.py`
-`sts-bert-huggingface-demo.ipynb` - Jupyter notebook walking through the demo
+`sts-bert-huggingface-demo.ipynb`: Jupyter notebook walking through the demo <br>
+`scripts/train.py`: Model training script <br>
+`img`: Images for the notebook
 
 # Instrutions 
 
